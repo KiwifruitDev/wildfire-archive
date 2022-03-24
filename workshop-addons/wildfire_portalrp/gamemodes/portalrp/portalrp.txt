@@ -1,0 +1,16 @@
+"portalrp"
+{
+    "base"          "nutscript"
+    "title"         "Aperture Science Roleplay"
+    "version"       "1.0.0"
+    "category"      "rp"
+    "menusystem"    "0"
+
+    "author_name"   "KiwifruitDev"
+    "author_email"  ""
+    "author_url"    ""
+
+    "icon"  ""
+    "info"  ""
+    "hide"  "0"
+}

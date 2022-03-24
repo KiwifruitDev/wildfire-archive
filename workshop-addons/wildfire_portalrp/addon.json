@@ -1,0 +1,15 @@
+{
+	"title"		:	"Wildfire Aperture Science Roleplay - Content",
+	"type"		:	"ServerContent",
+	"tags"		:	[ "realism", "roleplay" ],
+	"ignore"	:
+	[
+		"*.psd",
+		"*.vcproj",
+        "*.svn*",
+        "*.pdn",
+        "*.sfk",
+        "*.veg",
+        "*.git"
+	]
+} 

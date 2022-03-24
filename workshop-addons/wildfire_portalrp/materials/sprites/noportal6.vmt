@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "sprites/noportal6"
+	"$translucent" 1
+}
